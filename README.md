@@ -15,4 +15,4 @@ This report aims to provide an in-depth analysis of coffee sales over time acros
 
 <h2>File Access</h2>
 
-- <b>Please click the file about to view the project</b>
+- <b>Please click the EXCEL file above to view the project</b>
